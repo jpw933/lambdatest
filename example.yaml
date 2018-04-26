@@ -8,5 +8,5 @@ Resources:
       Runtime: nodejs6.10
       Environment:
         Variables: 
-          S3_BUCKET: cchan-test
+          S3_BUCKET: tc-logs-bi-sandbox-west2
 
